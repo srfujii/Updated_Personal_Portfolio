@@ -1,5 +1,6 @@
 # Susan Fujii's Updated Portfolio and Resume
-
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
 ## Table of Contents
 
 - [Description](#Description)
@@ -25,9 +26,9 @@ A portfolio of work is used to showcase skills and talents to employers who are 
 
 ### Why I Built This
 
-With these points in mind, I spent thhe time to connect my formerly "placeholder" links to actually connect to my live projects on GitHub. I also included a link to my updated resume.
+With this in mind, I added screenshots with live links to connect to my live projects on GitHub or Heroku, wherever they might be deployed. I also included a link to my updated resume.
 
-Additionally, this web application is **accessible** to users who will view it both on larger computer screens and also on smaller screen sizes, and the code is **up to current industry standards** and **uses best known practices**.
+This web application is **accessible** to users who will view it both on larger computer screens and also on smaller screen sizes, and the code is **up to current industry standards** and **uses best known practices**.
 
 **Accessibility** is an increasingly important consideration for businesses. Web accessibility ensures that people with disabilities can access a website using assistive technologies like video captions, screen readers, and braille keyboards. **Accessible** sites also rank higher in search engines and ensure that **all** users can easily access the information provided.
 
@@ -44,9 +45,9 @@ Before I created this online portfolio, I had no way to show potential employers
 
 
 ## Installation
-To view this project, simply visit (https://srfujii.github.io/PersonalPortfolio_Updated)
+To view this project, simply visit (https://srfujii.github.io/Updated_Personal_Portfolio/)
  
-To install this project on your local machine, simply visit this repo at (https://github.com/srfujii/PersonalPortfolio_Updated) and use git to clone it to your local environment.
+To install this project on your local machine, simply visit this repo at (https://github.com/srfujii/Updated_Personal_Portfolio/) and use git to clone it to your local environment.
 
 
 ## Usage
